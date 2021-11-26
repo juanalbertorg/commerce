@@ -1,7 +1,7 @@
 :root {
-  --primary: #a78934;
+  --primary: #e6dbbf;
   --primary-2: #f1f3f5;
-  --secondary: #000000;
+  --secondary: #b28475;
   --secondary-2: #111;
   --selection: var(--cyan);
 
@@ -29,9 +29,9 @@
   --accent-0: #fff;
   --accent-1: #fafafa;
   --accent-2: #eaeaea;
-  --accent-3: #999999;
+  --accent-3: #a78934;
   --accent-4: #888888;
-  --accent-5: #666666;
+  --accent-5: #a78934;
   --accent-6: #444444;
   --accent-7: #333333;
   --accent-8: #111111;
